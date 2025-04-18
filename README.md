@@ -75,5 +75,20 @@ Data analysts and scientists practicing A/B testing
 Growth teams working on conversion rate optimization
 
 Anyone looking to understand how to design statistically sound experiments
+## 📊 Visualization: 
+### 1 ) Average Daily Click-Through Rate (CTR) Over Time by Group 
+
+![Image](https://github.com/user-attachments/assets/a8142308-7da9-4800-893a-774171ef27ed)
+The line chart above illustrates the trend of average daily CTR (avg_daily_ctr) for two groups—control (groupid = 0) and variant (groupid = 1)—over a period of time.
+
+The control group (0) shows a relatively stable CTR throughout the timeline.
+
+The variant group (1) exhibits a noticeable increase in CTR at a specific point, maintaining a higher average afterward.
+
+This suggests that the experiment introduced in the variant group had a positive impact on user engagement, as reflected by the improved click-through rates. The A/B test likely validates that the changes made for group 1 were effective.
+
+### 2) Number of uses based on group 
+
+![Image](https://github.com/user-attachments/assets/343d00be-4fec-41b8-9441-7b2977a2cfaa)
 
 
